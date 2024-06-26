@@ -37,19 +37,19 @@
                   <div class="left-up h-52">
                   <dl class="item_list flex justify-between font-bold">
                     <dt class="w-8 flex items-center"><span class="bg-white rounded-full aspect-square size-8 flex items-center justify-center font-bold">―</span></dt>
-                    <dd class="w-full ml-7 flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
+                    <dd class="w-full flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
                   </dl>
                   <dl class="item_list flex justify-between font-bold">
                   <dt class="w-8 flex items-center"><span class="bg-white rounded-full aspect-square size-8 flex items-center justify-center font-bold">―</span></dt>
-                    <dd class="w-full ml-7 flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
+                    <dd class="w-full flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
                   </dl>
                   <dl class="item_list flex justify-between font-bold">
                   <dt class="w-8 flex items-center"><span class="bg-white rounded-full aspect-square size-8 flex items-center justify-center font-bold">―</span></dt>
-                    <dd class="w-full ml-7 flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
+                    <dd class="w-full flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
                   </dl>
                   <dl class="item_list flex justify-between font-bold">
                     <dt class="w-8 flex items-center"><span class="bg-white rounded-full aspect-square size-8 flex items-center justify-center font-bold">―</span></dt>
-                    <dd class="w-full ml-7 flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
+                    <dd class="w-full flex justify-between"><span class="title">牛めし　小盛</span><span>￥1,080</span></dd>
                   </dl>
                   </div>
                   <div class="left-bottom">
