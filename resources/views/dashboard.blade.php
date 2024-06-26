@@ -1,8 +1,16 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
+        <div class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight flex justify-between w-full">
+          <a href="" class="flex text-center">おすすめ</a>
+          <a href="" class="flex text-center">牛めし</a>
+          <a href="" class="flex text-center">カレー</a>
+          <a href="" class="flex text-center">丼</a>
+          <a href="" class="flex text-center">定食</a>
+          <a href="" class="flex text-center">サイドメニュー</a>
+          <a href="" class="flex text-center">ドリンク</a>
+          <a href="" class="flex text-center">お子様</a>
+            <!-- {{ __('Dashboard') }} -->
+        </div>
     </x-slot>
 
     <div class="py-12">
